@@ -1,0 +1,6 @@
+config tuya_espd 'main'
+	option enabled '0'
+	option device_id ''
+	option product_id ''
+	option device_secret ''
+	option reconnect_timeout '10'
