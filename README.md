@@ -79,4 +79,4 @@ These Tuya cloud action identifiers map directly to `espd` UBUS calls:
 
 ## License
 
-MIT — Internship project, Teltonika Networks
+MIT
