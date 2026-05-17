@@ -1,4 +1,4 @@
-# Tuya-ESP Bridge Daemon
+# Tuya-ESP Daemon
 
 A daemon that connects to the **Tuya IoT cloud** via MQTT and forwards incoming action commands to the `espd` daemon via UBUS, which then controls ESP8266/ESP32 devices over serial.
 
